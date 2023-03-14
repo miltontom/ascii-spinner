@@ -1,1 +1,2 @@
 # ascii-spinner
+![](spinner.gif)
