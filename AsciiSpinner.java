@@ -3,7 +3,7 @@ public class AsciiSpinner {
 		asciiSpinner();
 	}
 
-	static void asciiSpinner() {
+	public static void asciiSpinner() {
 		char[] chars = {'-', '\\', '|', '/'};
 
 		while (true) {
